@@ -62,23 +62,23 @@
       },
 
 {
-         "name": "SG-FAST-DTAC-WORK-01",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/sghappywork.ovpn"
+         "name": "SG-FAST-DTAC-NOPRO-01",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np1.ovpn"
       },
 
 {
-         "name": "SG-FAST-DTAC-WORK-02",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/sghappywork.ovpn"
+         "name": "SG-FAST-DTAC-NOPRO-02",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np2.ovpn"
       },
 
 {
-       "name": "SG-FAST-DTAC-WORK-03",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/sghappywork.ovpn"
+       "name": "SG-FAST-DTAC-NOPRO-03",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np3.ovpn"
       },
 
 {
-       "name": "SG-FAST-DTAC-WORK-04",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/sghappywork.ovpn"
+       "name": "SG-FAST-DTAC-NOPRO-04",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np4.ovpn"
       },
 
 {
@@ -203,7 +203,7 @@
 
 
    ],
-"message":"Hello! Welcome To AYOON VPN!\n\nSERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac Happy Work\n-Dtac Social\n\nUpdate: 01/01/2022 \nConfig version: 1.0\nEnjoy✌️",
+"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Dtac Social\n\nUpdate: 17/01/2022 \nConfig version: 2.0",
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
    "version": 1
 }
