@@ -62,23 +62,23 @@
       },
 
 {
-         "name": "SG-HI-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np1.ovpn"
+         "name": "SG-A-TRUE-NOPRO-01",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/m1.ovpn"
       },
 
 {
-         "name": "SG-HI-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np2.ovpn"
+         "name": "SG-A-TRUE-NOPRO-02",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/m2.ovpn"
       },
 
 {
-       "name": "SG-HI-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np3.ovpn"
+       "name": "SG-A-TRUE-NOPRO-03",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/m3.ovpn"
       },
 
 {
-       "name": "SG-HI-DTAC-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/np4.ovpn"
+       "name": "SG-A-TRUE-NOPRO-04",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/m4.ovpn"
       },
 
 {
@@ -127,18 +127,18 @@
       },
 
 {
-         "name": "SG-A-TRUE-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/new1.ovpn"
+         "name": "SG-A-DTAC-NOPRO-03",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s3.ovpn"
       },
 
 {
-        "name": "SG-A-TRUE-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/new2.ovpn"
+        "name": "SG-A-DTAC-NOPRO-04",
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s4.ovpn"
       },
 
 {
         "name": "SG-A-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/new3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s2.ovpn"
       },
 
 {
@@ -198,12 +198,12 @@
 
 {
          "name": "SG-A-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/new4.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s1.ovpn"
       }
 
 
    ],
-"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Dtac Social\n\nUpdate: 29/01/2022 \nConfig version: 4.0",
+"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Dtac Social\n\nUpdate: 30/01/2022 \nConfig version: 5.0",
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
-   "version": 5
+   "version": 6
 }
