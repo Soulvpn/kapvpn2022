@@ -128,17 +128,17 @@
 
 {
          "name": "SG-A-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s3.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/jp3.ovpn"
       },
 
 {
         "name": "SG-A-DTAC-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s4.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/jp4.ovpn"
       },
 
 {
         "name": "SG-A-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/jp2.ovpn"
       },
 
 {
@@ -198,12 +198,12 @@
 
 {
          "name": "SG-A-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/s1.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/kapvpn2022/main/jp1.ovpn"
       }
 
 
    ],
-"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Dtac Social\n\nUpdate: 30/01/2022 \nConfig version: 5.0",
+"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Dtac Lazada\n-Dtac Line\n-Dtac No Pro\n-Dtac Social\n\nUpdate: 02/02/2022 \nConfig version: 6.0",
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
-   "version": 6
+   "version": 7
 }
